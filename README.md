@@ -1,4 +1,5 @@
 Descrição do Projeto
+
 O SolarEnergyStore.Api é uma API que gerencia equipamentos elétricos em uma empresa utilizando dados de sensores conectados a um Arduino. A API permite:
 
 Registro de temperaturas internas e externas dos equipamentos.
